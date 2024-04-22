@@ -1,5 +1,3 @@
-### A collection of programming projects I've done so far
-
 ## 42Wolfsburg - Software Engineering
 
 | Rank | Project | Language | Short Summary |
