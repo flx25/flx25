@@ -5,7 +5,7 @@
 | 00 | [libft](https://github.com/flx25/libft) | C | 42 Project - Libft - This project is about writing our own version of a set of functions from the standard libc and also some that are either not in the libc, or that are part of it but in a different form. |
 | 01 | [ft_printf](https://github.com/flx25/ft_printf) | C | 42 Project - ft_printf - This project is about writing our own printf function by understanding and using variadic functions. |
 | 01 | [get_next_line](https://github.com//flx25/get_next_line) | C | 42 Project - get_next_line - This project is about programming a function that returns a line read from a file descriptor. |
-| 02 | [minitalk](https://github.com/flx25/minitalk) | C | 42 project - minitalk - This project is about to learn and implement the concepts of signals, server client communication and bitshifting. |
+| 02 | [minitalk](https://github.com/flx25/minitalk) | C | 42 project - minitalk - This project is about to learn and implement the concepts of signals, server-client communication and bitshifting. |
 | 02 | [push_swap](https://github.com/flx25/push_swap) | C | 42 project - push_swap - This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. |
 | 02 | [so_long](https://github.com/flx25/so_long) | C | 42 project - so_long - This project is the first graphical project and is about designing and programming a simple top-down 2D game by unsing the 42 school graphical library: the MiniLibX!. |
 | 03 | [minishell](https://github.com/flx25/minishell) | C | 42 project - minishell - This project involves creating a simplified version of a Unix shell. |
