@@ -1,4 +1,4 @@
-## 42Wolfsburg - Software Engineering
+## 42Wolfsburg - Software Engineering - Projects so far:
 
 | Rank | Project | Language | Short Summary |
 |:----:|:-------:|:--------:|:-------------:|
