@@ -20,7 +20,7 @@
 | 05 | [CPP06](https://github.com/flx25/cpp-modules/tree/master/cpp06) | C++ | 42 Project - CPP06 - This module is about the different cast types in CPP. |
 | 05 | [CPP07](https://github.com/flx25/cpp-modules/tree/master/cpp07) | C++ | 42 Project - CPP07 - This module is about Templates in CPP. |
 | 05 | [CPP08](https://github.com/flx25/cpp-modules/tree/master/cpp08) | C++ | 42 Project - CPP08 - This project is about templated containers, iterators and algorithms in CPP. |
-| 05 | [CPP08](https://github.com/flx25/cpp-modules/tree/master/cpp09) | C++ | 42 Project - CPP09 - This project is about containers, working with databases and the merge-insertion sort algorithm. |
+| 05 | [CPP09](https://github.com/flx25/cpp-modules/tree/master/cpp09) | C++ | 42 Project - CPP09 - This project is about containers, working with databases and the merge-insertion sort algorithm. |
 | 05| webserv | C++ | tbd |
 | 05| inception | dockerfile | tbd |
 | 06| ft_transcendence | C++ | tbd |
