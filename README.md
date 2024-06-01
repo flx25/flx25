@@ -23,5 +23,5 @@
 | 05 | [CPP09](https://github.com/flx25/cpp-modules/tree/master/cpp09) | C++ | 42 Project - CPP09 - This project is about containers, working with databases and the merge-insertion sort algorithm. |
 | 05 | [webserv](https://github.com/flx25/webserv)  | C++ | 42 Project - webserv - This project is about writing your own HTTP server.|
 | 05| [inception](https://github.com/flx25/inception) | dockerfile | 42 Project - inception - This project aims to broaden your knowledge of system administration by using Docker. |
-| 06| ft_transcendence | Django, Python, Javascript, HTML, Bootstrap, CSS | Work in Progress |
+| 06| ft_transcendence - Work in Progress | Django, Python, JavaScript, HTML, Bootstrap, CSS | 42 Project - transcendence Building a website and Pong game hosted on the website with user management, statistics, security features and other modules.|
 <!--
